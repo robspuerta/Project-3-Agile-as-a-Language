@@ -20,4 +20,4 @@ In Confluence we can create templates and share with the rest of the team: proje
 
 Let us know in the comments if you use Agile Methodology as a framework and how is the relation between technicals and non-technical team members?
 
-This was an educational exercise created with [Eng. José C. Rincon](https://www.linkedin.com/in/josecarlosrincon/). Check more posts related to Business Analyst tools and methodology on my [GitHub](https://github.com/robspuerta) and more about me on [Linkedin](https://www.linkedin.com/in/robin-puerta/).
+<sub>This was an educational exercise created with [Eng. José C. Rincon](https://www.linkedin.com/in/josecarlosrincon/). Check more posts related to Business Analyst tools and methodology on my [GitHub](https://github.com/robspuerta) and more about me on [Linkedin](https://www.linkedin.com/in/robin-puerta/).</sub>
