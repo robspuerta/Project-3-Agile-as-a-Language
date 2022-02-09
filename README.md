@@ -9,9 +9,15 @@ As **Business Analyst** (BA), one of our roles is to study the process, the tech
 
 As we all find eventually in life, sometimes what we express is not necessarily what the recipient understands, and it's very common in multidisciplinary teams where we all speak different "languages" to share an idea, resulting in bad deliverables and frustration.
 
-Luckily *Agile Methodology* brings a solution for multidisciplinary teams. As expreses by Eng. José C. Rincon: 
+Luckily *Agile Methodology* brings a solution for multidisciplinary teams. As expreses by [Eng. José C. Rincon](https://www.linkedin.com/in/josecarlosrincon/): 
 
 "Agile Methodology creates a common language between business, tech teams, and all stakeholders to efficiently communicate product requirements..."
 
 Real-Life Case Study:xxxxx
-Together with Eng. José C. Rincon and myself, we created this product requirement using Confluence as a co-work environment:
+Together with [Eng. José C. Rincon](https://www.linkedin.com/in/josecarlosrincon/) and myself, we created this product requirement using Confluence as a co-work environment:
+
+In Confluence we can create templates and share with the rest of the team: project specifics, team goals and business objectives, background and added value to customers, user stories, and more. Working with Agile Methodology creates a shared understanding for efficient communication between technical and non-technical team members.
+
+Let us know in the comments if you use Agile Methodology as a framework and how is the relation between technicals and non-technical team members?
+
+This was an educational exercise created with [Eng. José C. Rincon](https://www.linkedin.com/in/josecarlosrincon/). Check more posts related to Business Analyst tools and methodology on my [GitHub](https://github.com/robspuerta) and more about me on [Linkedin](https://www.linkedin.com/in/robin-puerta/).
