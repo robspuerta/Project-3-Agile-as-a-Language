@@ -1,7 +1,7 @@
 # Project 3 Agile as a Language
 Agile as a common language for multidisciplinary teams
 
-<img src="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool/blob/main/Dashboards%20Robin%20Puerta.png" alt="Robin Puerta Business Process Analyst + Product Analyst">
+<img src="https://github.com/robspuerta/Project-3-Agile-as-a-Language/blob/main/Agile%20as%20a%20Language%20Github%20Banner.png" alt="Robin Puerta Business Process Analyst + Product Analyst">
 
 As **Business Analyst** (BA), one of our roles is to study the process, the technology, and people involved understanding what can be optimized or improved to fulfill business objectives, but...
 
