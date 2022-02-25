@@ -16,6 +16,9 @@ Luckily *Agile Methodology* brings a solution for multidisciplinary teams. As ex
 ## Real-Life Case Study:xxxxx
 Together with [Eng. José C. Rincon](https://www.linkedin.com/in/josecarlosrincon/) and myself, we created this product requirement using Confluence as a co-work environment:
 
+<img src="https://github.com/robspuerta/Project3_Agile_as_a_Language/blob/main/Agile%20Requirements%20Robin%20Puerta.JPG" alt="Robin Puerta Business Process Analyst + Product Analyst">
+
+
 In Confluence we can create templates and share with the rest of the team: project specifics, team goals and business objectives, background and added value to customers, user stories, and more. <ins>Working with Agile Methodology creates a shared understanding for efficient communication between technical and non-technical team members.</ins>
 
 Let us know in the comments if you use Agile Methodology as a framework and how is the relation between technicals and non-technical team members?
