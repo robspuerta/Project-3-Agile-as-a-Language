@@ -13,7 +13,7 @@ Luckily *Agile Methodology* brings a solution for multidisciplinary teams. As ex
 
 > "Agile Methodology creates a common language between business, tech teams, and all stakeholders to efficiently communicate product requirements..."
 
-## Real-Life Case Study:xxxxx
+## Real-Life Case Study: Login with facial recognition
 Together with [Eng. José C. Rincon](https://www.linkedin.com/in/josecarlosrincon/) and myself, we created this product requirement using Confluence as a co-work environment:
 
 <img src="https://github.com/robspuerta/Project3_Agile_as_a_Language/blob/main/Agile%20Requirements%20Robin%20Puerta.JPG" alt="Robin Puerta Business Process Analyst + Product Analyst">
